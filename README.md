@@ -5,11 +5,11 @@
 
 - 👯 I’m looking to collaborate in **more Hackathons / GameJams**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-suyash-abhishek-kumars-projects.vercel.app](https://portfolio-suyash-abhishek-kumars-projects.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-suyash-abhishek-kumars-projects.vercel.app)
 
 - 📫 How to reach me **suyash.a.kumar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17-XcZLo8rJYm7gl8zzBAG9ETvYXP-PnG/view?usp=sharing](https://drive.google.com/file/d/17-XcZLo8rJYm7gl8zzBAG9ETvYXP-PnG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17-XcZLo8rJYm7gl8zzBAG9ETvYXP-PnG/view?usp=sharing)
 
 - ⚡ Fun fact **I line to play Minecraft 😀**
 
