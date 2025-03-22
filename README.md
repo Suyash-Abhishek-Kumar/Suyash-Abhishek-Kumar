@@ -15,7 +15,7 @@
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyash-abhishek-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="suyash-abhishek-kumar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma&theme=onedark/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyash-abhishek-kumar" alt="suyash-abhishek-kumar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyash-abhishek-kumar" alt="suyash-abhishek-kumar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
