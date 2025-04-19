@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **suyash.a.kumar@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17-XcZLo8rJYm7gl8zzBAG9ETvYXP-PnG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](drive.google.com/file/d/11srXVOzrEOHD-JwBpMeTtjaukEhGANdn/view?usp=sharing)
 
 - ⚡ Fun fact **I line to play Minecraft 😀**
 
