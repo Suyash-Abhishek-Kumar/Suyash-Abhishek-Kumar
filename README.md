@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11srXVOzrEOHD-JwBpMeTtjaukEhGANdn/view?usp=sharing)
 
-- ⚡ Fun fact **I line to play Minecraft 😀**
+- ⚡ Fun fact **I like to play Minecraft 😀**
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyash-abhishek-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="suyash-abhishek-kumar" /> </p>
 
