@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suyash Abhishek Kumar</h1>
-<h3 align="center">A passionate AI/Game developer from India</h3>
+<h3 align="center">A passionate AI/ML from India</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
